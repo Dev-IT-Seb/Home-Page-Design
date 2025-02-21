@@ -1,2 +1,2 @@
 # Home-Page-Design
-![maquette Home Design](./assets/images/Maquette-Home Design.jpg)
+![maquette Home Design](./Maquette-Home Design.jpg)
