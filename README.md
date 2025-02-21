@@ -1,2 +1,2 @@
-# Home-Page-Design
-![Maquette Home Design](https://myoctocat.com/assets/images/base-octocat.svg)
+# Home Page - Design Enterprise
+![Maquette Home Design](./Maquette-Home Design.jpg)
